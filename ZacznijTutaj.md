@@ -1,4 +1,4 @@
-![image](https://github.com/Gekimaru/reactTutorial/assets/85436765/bbdf73e8-1f39-4803-9949-76a883719eee)
+
 # Spis treści
 
 
@@ -28,7 +28,10 @@ W tym tutorialu mój projekt ma nazwe tutorialek
 
 ![image](https://github.com/Gekimaru/reactTutorial/assets/85436765/ec8413a4-7046-4e49-be03-320dcf6ecdc3)
 
-Wchodzisz do tego folderu w cmd i wpisujesz node start
+Wchodzisz do tego folderu w cmd i wpisujesz:
+`npm start`  
+
+![image](https://github.com/Gekimaru/reactTutorial/assets/85436765/256d8def-978c-476f-86df-3c067e52b951)
 
 Po poprawnym uruchomieniu powinno to wyglądać tak:
 
