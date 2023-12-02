@@ -1,6 +1,6 @@
 # To repozytorium jest dla ludzi chcących nauczyć się reacta znając już podstawy android studio
 
-
+[a relative link](Lekcja1/Lekcja1.md)
 # Spis treści
 
 
