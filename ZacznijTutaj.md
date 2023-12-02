@@ -1,4 +1,4 @@
-# Spis treści
+![image](https://github.com/Gekimaru/reactTutorial/assets/85436765/bbdf73e8-1f39-4803-9949-76a883719eee)# Spis treści
 
 
 
@@ -26,5 +26,12 @@ Wpisujesz:
 W tym tutorialu mój projekt ma nazwe tutorialek  
 
 ![image](https://github.com/Gekimaru/reactTutorial/assets/85436765/ec8413a4-7046-4e49-be03-320dcf6ecdc3)
+
+Wchodzisz do tego folderu w cmd i wpisujesz node start
+
+Po poprawnym uruchomieniu powinno to wyglądać tak:
+
+![image](https://github.com/Gekimaru/reactTutorial/assets/85436765/00554cce-de1c-4c0b-b247-b604f92b0a8a)
+
 
 [Przejdź do spisu treści](#spis-treści)
