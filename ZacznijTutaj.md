@@ -23,8 +23,8 @@ Powinno ci zacząć pobierać pakiet, u mnie jest pobrany więc po wpisaniu tej 
 
 ## Użycie narzędzia do utworzenia projektu
 Przechodzisz do miejsca gdzie chcesz stworzyć folder projektu
-Wpisujesz:
-`npx create-react-app nazwa_projektu`  
+Wpisujesz:  
+`npx create-react-app nazwa_projektu`   
 
 W tym tutorialu mój projekt ma nazwe tutorialek  
 
