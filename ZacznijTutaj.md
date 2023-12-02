@@ -63,19 +63,19 @@ Z podfolderu src z projektu usuwamy:
 Wchodzimy do index.js, usuwamy połączenia do nieisniejących już plików oraz ostatnią linijke o treści reportWebVitals() wraz z komentarzem do niej.  
   
   
-Wchodzimy do App.js i zastępujemy całą zawartość tym kodem:  
-```
-export default function Przycisk() {
-  return <button className="przycisk">X</button>;
-}
-```
-Do pliku index.css dodajemy:
-`
-.przycisk{
-  font-size:100px;
-}
-`
-
+Wchodzimy do App.js i zastępujemy całą zawartość tym kodem:    
+```  
+export default function Przycisk() {  
+  return <button className="przycisk">X</button>;  
+}  
+```  
+Do pliku index.css dodajemy:  
+```  
+.przycisk{    
+  font-size:100px;    
+}  
+```  
+  
 Następnie wchodzimy do podfolderu public i usuwamy stamtąd:
 - favicon.ico
 - logo192.png
