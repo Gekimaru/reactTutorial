@@ -64,11 +64,11 @@ Wchodzimy do index.js, usuwamy połączenia do nieisniejących już plików oraz
   
   
 Wchodzimy do App.js i zastępujemy całą zawartość tym kodem:  
-`
+```
 export default function Przycisk() {
   return <button className="przycisk">X</button>;
 }
-`
+```
 Do pliku index.css dodajemy:
 `
 .przycisk{
