@@ -16,7 +16,8 @@ powinno ci wypluć wersje
 # 2. Tworzysz swój pierwszy projekt
 ## Pobierasz narzędzie do tworzenia apki reactowej
 W cmd wpisujesz:  
-`npm install -g create-react-app`    
+  `npm install -g create-react-app`    
+
 Powinno ci zacząć pobierać pakiet, u mnie jest pobrany więc po wpisaniu tej samej komendy powinno wyświetlić się:
 ![image](https://github.com/Gekimaru/reactTutorial/assets/85436765/a7d194b7-44bd-49a1-afe9-74d7d769f443)
 
