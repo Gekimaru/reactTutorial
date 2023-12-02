@@ -1,3 +1,6 @@
+# Spis treści
+
+
 
 # 1. Pobierasz nodejs
 Z tej strony: https://nodejs.org/en
@@ -24,3 +27,4 @@ W tym tutorialu mój projekt ma nazwe tutorialek
 
 ![image](https://github.com/Gekimaru/reactTutorial/assets/85436765/ec8413a4-7046-4e49-be03-320dcf6ecdc3)
 
+[Przejdź do spisu treści](#spis-treści)
