@@ -81,6 +81,8 @@ Następnie wchodzimy do podfolderu public i usuwamy stamtąd:
 - logo192.png
 - robots.txt
 - manifest.json  
+
+  
 Na końcu powinno to wyglądać w ten sposób:
 ### App.js  
 ![appjs](https://github.com/Gekimaru/reactTutorial/assets/85436765/07911284-d13f-4974-804e-c71be8ffdfd6)  
