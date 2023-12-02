@@ -41,7 +41,10 @@ Po poprawnym uruchomieniu powinno to wyglądać tak:
 
 ![image](https://github.com/Gekimaru/reactTutorial/assets/85436765/c6f47187-0059-48d0-97dd-0cf1c9a35dea)"
 
-Teraz z podfolderu src z projektu usuwamy:  
+# 3.Przygotowanie folderu do pracy  
+W folderze CzystyProjekt jest projekt który jest odpowiedni przygotowany do początku pracy,  
+na egzaminie sami musimy oczyścić projekt z niepotrzebnych nam już rzeczy więc tu jest opis jak to zrobić:
+Z podfolderu src z projektu usuwamy:  
 - App.css
 - App.test.ks
 - logo.svg
@@ -53,8 +56,8 @@ Wchodzimy do index.js, usuwamy połączenia do nieisniejących już plików oraz
   
 Wchodzimy do App.js i zastępujemy całą zawartość tym kodem:  
 `
-export default function Square() {
-  return <button className="square">X</button>;
+export default function Przycisk() {
+  return <button className="przycisk">X</button>;
 }
 `
 
@@ -62,7 +65,8 @@ Następnie wchodzimy do podfolderu public i usuwamy stamtąd:
 - favicon.ico
 - logo192.png
 - robots.txt
-
+- manifest.json  
+Na końcu powinno to wyglądać w ten sposób 
 
 
 Będę w tutorialu będę używał konsoli wbudowanej w VScode ale można też używać cmd 
