@@ -31,7 +31,10 @@ Wchodzisz do tego folderu w cmd i wpisujesz node start
 
 Po poprawnym uruchomieniu powinno to wyglądać tak:
 
-![image](https://github.com/Gekimaru/reactTutorial/assets/85436765/00554cce-de1c-4c0b-b247-b604f92b0a8a)
+![image](https://github.com/Gekimaru/reactTutorial/assets/85436765/c6f47187-0059-48d0-97dd-0cf1c9a35dea)
+
+Będę w tutorialu będę używał konsoli wbudowanej w VScode ale można też używać cmd 
 
 
-[Przejdź do spisu treści](#spis-treści)
+[Przejdź do spisu treści](#spis-treści)  
+
