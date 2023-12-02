@@ -32,7 +32,10 @@ Wpisujesz:
 
 W tym tutorialu mój projekt ma nazwe tutorialek  
 
-![image](https://github.com/Gekimaru/reactTutorial/assets/85436765/ec8413a4-7046-4e49-be03-320dcf6ecdc3)
+![npxCreatReactAppStart](https://github.com/Gekimaru/reactTutorial/assets/85436765/3ae6272f-f6db-49a3-bb3b-e91ce7149be1)
+![npxCreatReactAppEnd](https://github.com/Gekimaru/reactTutorial/assets/85436765/c09aa6e3-5644-4844-97ef-805664f872f8)
+
+
 ## Odpalasz projekt
 Wchodzisz do folderu projektu w cmd i wpisujesz:
 `npm start`  
