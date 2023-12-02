@@ -7,8 +7,8 @@
 Z tej strony: https://nodejs.org/en
 Instalujesz wersje LTS bo jest bardziej stabilna
 
-Jak zrobisz to dobrze to powinno to po wpisaniu komendy:
-`node --version` 
+Jak zrobisz to dobrze to powinno to po wpisaniu komendy:  
+`node --version`  
 powinno ci wypluć wersje  
 ![image](https://github.com/Gekimaru/reactTutorial/assets/85436765/1d4c38b2-8224-46ca-989c-723808b1d035)
 
