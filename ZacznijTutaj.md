@@ -1,3 +1,5 @@
+
+
 # To repozytorium jest dla ludzi chcących nauczyć się reacta znając już podstawy android studio
 
 [Lekcja1](Lekcja1/Lekcja1.md)
@@ -42,8 +44,12 @@ Po poprawnym uruchomieniu powinno to wyglądać tak:
 ![image](https://github.com/Gekimaru/reactTutorial/assets/85436765/c6f47187-0059-48d0-97dd-0cf1c9a35dea)"
 
 # 3.Przygotowanie folderu do pracy  
-W folderze CzystyProjekt jest projekt który jest odpowiedni przygotowany do początku pracy,  
-na egzaminie sami musimy oczyścić projekt z niepotrzebnych nam już rzeczy więc tu jest opis jak to zrobić:
+W folderze CzystyProjekt jest projekt który jest odpowiedni przygotowany do początku pracy, wystarczy że pobierzemy go w dane miejsce, wejdziemy do niego  
+za pomocą konsoli i wpiszemy:  
+`
+npm install
+`
+Na egzaminie sami musimy oczyścić projekt z niepotrzebnych nam rzeczy więc tu jest opis jak to zrobić:
 Z podfolderu src z projektu usuwamy:  
 - App.css
 - App.test.ks
@@ -60,13 +66,26 @@ export default function Przycisk() {
   return <button className="przycisk">X</button>;
 }
 `
+Do pliku index.css dodajemy:
+`
+.przycisk{
+  font-size:100px;
+}
+`
 
 Następnie wchodzimy do podfolderu public i usuwamy stamtąd:
 - favicon.ico
 - logo192.png
 - robots.txt
 - manifest.json  
-Na końcu powinno to wyglądać w ten sposób 
+Na końcu powinno to wyglądać w ten sposób:
+### App.js  
+![appjs](https://github.com/Gekimaru/reactTutorial/assets/85436765/07911284-d13f-4974-804e-c71be8ffdfd6)  
+### index.css
+![indexcss](https://github.com/Gekimaru/reactTutorial/assets/85436765/7aecd107-f3ee-4775-8637-27cb4da2be86)
+### index.js
+![indexjs](https://github.com/Gekimaru/reactTutorial/assets/85436765/c7663977-b829-4b14-bad9-cf9f9c797ff5)
+
 
 
 Będę w tutorialu będę używał konsoli wbudowanej w VScode ale można też używać cmd 
